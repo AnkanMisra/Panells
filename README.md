@@ -30,7 +30,7 @@ You can start developing by editing the files inside the **app** directory. This
 When you're ready, run:
 
 ```bash
-npm run reset-project
+npm run reset-project --clear
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
